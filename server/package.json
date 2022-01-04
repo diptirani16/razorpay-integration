@@ -1,0 +1,18 @@
+{
+  "name": "razorpay-integration",
+  "version": "1.0.0",
+  "description": "key_id = rzp_test_R9ZA1xyoNavbR0 key_secret = 9HZ9mI7loG5jeyMEzQviBDG5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "razorpay": "^2.8.0"
+  }
+}
